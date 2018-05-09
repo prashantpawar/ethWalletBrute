@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^3.0.15"
+    "ethers": "^3.0.15",
+    "ganache-cli": "^6.1.0",
+    "js-combinatorics": "^0.5.3"
   }
 }
